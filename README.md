@@ -68,8 +68,11 @@ O projeto também pode ser executado no [Expo Snack]
 
 ![Tela inicial]
 (inicio.png)
+<img width="743" height="501" alt="inicio" src="https://github.com/user-attachments/assets/beca7ab9-1fb8-4d5f-9a80-01baab96c6a7" />
 
 ![Resultado
-(resultado.png)
+<img width="726" height="449" alt="resultado" src="https://github.com/user-attachments/assets/0eca0fb5-0292-4fb2-8f76-c5d92aeccd25" />
+
 ![Erro]
-(erro.png)
+<img width="615" height="403" alt="erro" src="https://github.com/user-attachments/assets/609dbe8d-808c-4260-a73f-1edf3117925c" />
+
