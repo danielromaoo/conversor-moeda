@@ -67,5 +67,9 @@ O projeto também pode ser executado no [Expo Snack]
 ## Capturas de tela
 
 ![Tela inicial]
+(inicio.png)
+
 ![Resultado
+(resultado.png)
 ![Erro]
+(erro.png)
